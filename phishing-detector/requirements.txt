@@ -1,0 +1,11 @@
+tensorflow==2.13.0
+lightgbm==4.3.0
+pandas
+numpy
+playwright
+reportlab
+pymongo
+streamlit
+python-whois
+dnspython
+ipwhois

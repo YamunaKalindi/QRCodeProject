@@ -1,0 +1,20 @@
+﻿S. No,Identified Phishing/Suspected Domain Name,Critical Sector Entity Name,Phishing/Suspected Domains (i.e. Class Label)
+1,"
+airtelconnect.in
+",Airtel,Suspected
+2,airtel-merchants.co.in ,Airtel,Suspected
+3,airtelmusic.in ,Airtel,Suspected
+4,airtel-topup.in ,Airtel,Suspected
+5,"
+Airtelcareer.in
+",Airtel,Phishing
+6,airtel-in.click ,Airtel,Suspected
+7,dccrsorgigov.xyz ,"Civil Registration System, Ministry of Home Affairs ",Suspected
+8,crsorgii.xyz ,"Civil Registration System, Ministry of Home Affairs ",Suspected
+9,campicicin.pro ,ICICI Bank,Suspected
+10,icicira.top ,ICICI Bank,Suspected
+11,hdfcbank.men ,HDFC Bank,Suspected
+12,hdfcbank.stream ,HDFC Bank,Suspected
+13,hdfcghj.top ,HDFC Bank,Suspected
+14,hdfcsecpr.net ,HDFC Bank,Suspected
+15,iocl.ind.in ,IOCL,Suspected

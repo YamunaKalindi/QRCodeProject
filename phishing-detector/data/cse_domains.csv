@@ -1,0 +1,30 @@
+S. No,Sector,Organisation Name,Whitelisted Domains
+1,BFSI,State Bank of India (SBI),onlinesbi.sbi
+2,BFSI,State Bank of India (SBI),sbi.co.in
+3,BFSI,State Bank of India (SBI),sbicard.com
+4,BFSI,State Bank of India (SBI),yonobusiness.sbi
+5,BFSI,State Bank of India (SBI),sbiepay.sbi
+6,BFSI,State Bank of India (SBI),sbilife.co.in
+7,BFSI,ICICI Bank,icicibank.com
+8,BFSI,ICICI Bank,icicicareers.com
+9,BFSI,ICICI Bank,icicidirect.com
+10,BFSI,ICICI Bank,icicilombard.com
+11,BFSI,ICICI Bank,iciciprulife.com
+12,BFSI,HDFC Bank,hdfcbank.com
+13,BFSI,HDFC Bank,hdfc.com
+14,BFSI,HDFC Bank,hdfcergo.com
+15,BFSI,HDFC Bank,hdfclife.com
+16,BFSI,Punjab National Bank (PNB),pnbindia.in
+17,BFSI,Punjab National Bank (PNB),netpnb.com
+18,BFSI,Bank of Baroda (BoB),bankofbaroda.in
+19,BFSI,Bank of Baroda (BoB),bobibanking.com
+20,Government,National Informatics Centre (NIC),nic.gov.in
+21,Government,National Informatics Centre (NIC),email.gov.in
+22,Government,National Informatics Centre (NIC),kavach.mail.gov.in
+23,Government,National Informatics Centre (NIC),accounts.mgovcloud.in
+24,Government,Registrar General and Census Commissioner of India (RGCCI),dc.crsorgi.gov.in
+25,Transport,Indian Railway Catering and Tourism Corporation (IRCTC),irctc.co.in
+26,Transport,Indian Railway Catering and Tourism Corporation (IRCTC),irctc.co.in
+27,Telecom,Airtel,airtel.in
+28,Telecom,Airtel,airtel.com
+29,P&E,Indian Oil Corporation Limited (IOCL),iocl.com

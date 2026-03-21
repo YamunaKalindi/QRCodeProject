@@ -1,0 +1,66 @@
+Detailed Technical Solution Description
+
+The proposed solution is a multi-stage AI-powered phishing and QR-code detection platform designed to classify URLs/domains as safe or malicious and generate detailed forensic evidence reports. The architecture integrates machine learning, heuristic analysis, and automated reporting within a scalable and asynchronous pipeline.
+
+Architecture Overview
+Input Layer
+Accepts individual URLs, QR codes, or CSV files containing bulk inputs from users.
+
+Feature Extraction
+Extracts lexical features (URL entropy, digit ratio, subdomain count, IP presence), WHOIS and DNS-based attributes (registrar info, creation date, MX records), IP/ASN data, and SSL certificate transparency info.
+
+Detection Engine
+
+Stage 1: A TensorFlow-based ANN classifies inputs as safe or phishing using normalized feature vectors.
+
+Stage 2: A LightGBM multi-class model attributes detected phishing URLs to corresponding Critical Sector Enterprises (CSEs).
+
+Evidence Generation Module
+Generates forensic reports automatically:
+
+Captures screenshots using Playwright.
+
+Creates structured PDF reports using ReportLab.
+
+Logs all detections in an Excel file and saves them into MongoDB.
+
+Dashboard (Streamlit)
+Provides an interactive web interface for real-time single/bulk detections, feature visualization, report downloads, and model reloads.
+
+Key Features
+Asynchronous and concurrent evidence generation.
+
+MongoDB-based storage for predictions and metadata.
+
+Modular architecture supporting scalable expansion to new sectors.
+
+Fully automated report generation with screenshots and detection summaries.
+
+Execution Instructions
+
+Clone the repository or extract all files into a working directory.
+
+Create and activate a Python virtual environment:
+
+bash
+python -m venv venv
+source venv/bin/activate   # or venv\Scripts\activate on Windows
+Install dependencies:
+
+bash
+pip install -r requirements.txt
+Configure MongoDB credentials and API keys in environment variables.
+
+Run the Streamlit application:
+
+bash
+streamlit run app_streamlit.py
+For bulk URL detection, upload a CSV file from the dashboard and retrieve results with evidence reports.
+
+Optional
+
+To generate standalone reports, execute evidence_generator.py to run evidence collection asynchronously.
+
+Use detection_pipeline.py to integrate the detection core with other systems or APIs.
+
+The system is modular, scalable, and lightweight, capable of continuous adaptation to new phishing data sources and integration with real-time threat intelligence APIs.

@@ -1,0 +1,32 @@
+﻿S. No,Identified Phishing/Suspected Domain Name,Critical Sector Entity Name,Phishing/Suspected Domains (i.e. Class Label)
+1,sbi-front.vercel.app,State Bank of India (SBI),Suspected
+2,sbi-site.vercel.app,State Bank of India (SBI),Suspected
+3,hdfc-beige.vercel.app,HDFC Bank,Suspected
+4,sbi-yono.pages.dev,State Bank of India (SBI),Suspected
+5,sbicreditcard4.pages.dev,State Bank of India (SBI),Suspected
+6,sbicreditcard6.pages.dev,State Bank of India (SBI),Suspected
+7,hdfc.pages.dev,HDFC Bank,Suspected
+8,hdfcbank.pages.dev,HDFC Bank,Suspected
+9,hdfcbankregalia.pages.dev,HDFC Bank,Suspected
+10,hdfrewards.pages.dev,HDFC Bank,Suspected
+11,rewardshdfc.pages.dev,HDFC Bank,Suspected
+12,online-hdfc-card.pages.dev,HDFC Bank,Suspected
+13,online-hdfckyc.pages.dev,HDFC Bank,Suspected
+14,rewardshdfcapk.pages.dev,HDFC Bank,Suspected
+15,cicici.pages.dev,ICICI Bank,Suspected
+16,icicibank-netbanking.pages.dev,ICICI Bank,Suspected
+17,icicilombard.pages.dev,ICICI Bank,Suspected
+18,online-icici-net.pages.dev,ICICI Bank,Suspected
+19,online-icicikyc.pages.dev,ICICI Bank,Suspected
+20,onlinicicikyc.pages.dev,ICICI Bank,Suspected
+21,https://bobfinancials.in,Bank of Baroda,Phishing
+22,https://ww16.bankofbarodashare.life/,Bank of Baroda,Phishing
+23,bobcrd.online,Bank of Baroda,Phishing
+24,https://bankofbaroda.prod.paymentstogo.net/gpp/,Bank of Baroda,Phishing
+25,https://bankofbaroda.shop/,Bank of Baroda,Phishing
+26,https://bankofbaroda-gs.uat.paymentstogo.net/gpp/,Bank of Baroda,Phishing
+27,https://bankofbaroda.uat.paymentstogo.net/gpp/,Bank of Baroda,Phishing
+28,https://www.wildcard.bankofbarodauae.org/,Bank of Baroda,Phishing
+29,https://bankofbaroda.carrer.com/,Bank of Baroda,Phishing
+,,,
+,,,
