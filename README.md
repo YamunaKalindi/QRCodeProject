@@ -10,7 +10,7 @@ This is a **scalable, on-premise AI/ML-based system** designed to detect phishin
 
 Key achievements in Stage 1:
 - Processed **1,083,354 URLs** in **8 hours 40 minutes** on a standard laptop (Intel i7-11800H).
-- Detected **3,855 phishing domains** with **zero false positives**.
+- Detected **3,855 phishing domains** with **near-zero false positives**.
 - Generated **3,813 PDF evidence reports** automatically.
 
 The solution strictly adheres to NCIIPC guidelines: **no third-party phishing APIs or commercial threat intelligence services** are used.
